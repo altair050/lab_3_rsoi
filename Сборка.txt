@@ -1,0 +1,3 @@
+1) Card -> Order -> Users -> Auth python manage.py run
+2) GateWay python manage.py run
+3) Client(вьюха): npm run serve
